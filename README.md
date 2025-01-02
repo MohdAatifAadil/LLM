@@ -29,4 +29,4 @@ Evaluate expressions via the URL
 
 ### http://127.0.0.1:5000/evaluate?expression=2+%2B+3*4
 
-## Contributing Feel Free to contribute by forking the repo and submitting a pull request.
+# Contributing Feel Free to contribute by forking the repo and submitting a pull request.
