@@ -1,6 +1,7 @@
 # LLM for Complex Mathematics and Academic Tasks
 
 THis Project provides a simple LLM capabl eof performing complex mathematics and academic tasks. It uses Flask for the wbe and framework and SymPy for symbolic mathematics.
+Contributing Feel Free to contribute by forking the repo and submitting a pull request.
 
 You can evaluate expressions via a RESTful API.
 
@@ -28,5 +29,3 @@ Press CTRL+C to quit
 Evaluate expressions via the URL
 
 ### http://127.0.0.1:5000/evaluate?expression=2+%2B+3*4
-
-Contributing Feel Free to contribute by forking the repo and submitting a pull request.
