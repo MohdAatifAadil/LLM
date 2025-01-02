@@ -1,15 +1,19 @@
-I'm building LLM that can perform complex mathematics and academic tasks.
-so this is very-basic version of that.
-you can free of cost use it and contribute in this project.
+# LLM for Complex Mathematics and Academic Tasks
 
-Use these commands to use this project.
+THis Project provides a simple LLM capabl eof performing complex mathematics and academic tasks. It uses Flask for the wbe and framework and SymPy for symbolic mathematics.
 
-pip install sympy
-pip install flask
+You can evaluate expressions via a RESTful API.
 
-then run this command.
+## How do I install it.
+1. Install some dependencies:
+   
 
-python app.py
+## Installation
+1. Install dependencies:
+### pip install flask
+
+2. Run the App:
+   ### python app.py
 
  * Serving Flask app 'app'
  * Debug mode: on
@@ -20,9 +24,9 @@ Press CTRL+C to quit
  * Debugger is active!
  * Debugger PIN: 284-027-872
 
+## Usage
+Evaluate expressions via the URL
 
-How to use it.
+### http://127.0.0.1:5000/evaluate?expression=2+%2B+3*4
 
-currently you can use in URL likly an API
-
-http://127.0.0.1:5000/evaluate?expression=2+%2B+3*4
+## Contributing Feel Free to contribute by forking the repo and submitting a pull request.
